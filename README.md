@@ -8,11 +8,11 @@ In this project, I have create node CRUD application (user managment system) wit
 
 ## ADD User Page
 
-<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990591-c2d1db70-53ec-4733-acca-54915a391ddd.png" height="30%"  width="60%" />
+<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990591-c2d1db70-53ec-4733-acca-54915a391ddd.png" height="25%"  width="80%" />
 
 ## Update User
 
-<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990647-022563d6-7b86-4a06-8a0f-366c8fd49d4b.png" height="30%" width="60%"  />
+<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990647-022563d6-7b86-4a06-8a0f-366c8fd49d4b.png" height="25%" width="80%"  />
 
 # Built with:
 
