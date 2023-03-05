@@ -4,15 +4,15 @@ In this project, I have create node CRUD application (user managment system) wit
 
 ## Home Page
 
-<img alt="Home" src="https://user-images.githubusercontent.com/69608939/222990507-46952604-5209-4a70-8418-fe12c3ab9ed4.png" height="80%"  />
+<img alt="Home" src="https://user-images.githubusercontent.com/69608939/222990507-46952604-5209-4a70-8418-fe12c3ab9ed4.png" height="70%"  />
 
 ## ADD User Page
 
-<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990591-c2d1db70-53ec-4733-acca-54915a391ddd.png" height="50%"  />
+<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990591-c2d1db70-53ec-4733-acca-54915a391ddd.png" height="30%"  width="60%" />
 
 ## Update User
 
-<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990647-022563d6-7b86-4a06-8a0f-366c8fd49d4b.png" height="50%"  />
+<img alt="add user page" src="https://user-images.githubusercontent.com/69608939/222990647-022563d6-7b86-4a06-8a0f-366c8fd49d4b.png" height="30%" width="60%"  />
 
 # Built with:
 
@@ -23,6 +23,12 @@ In this project, I have create node CRUD application (user managment system) wit
 <img height="24px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  />
 
 <img height="24px" align="left" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"  />
+
+
+<img height="24px" align="left" alt="EJS" src=""  />
+
+#
+#
 
 #### To Run this project Clone it and install modules using
 
@@ -46,4 +52,4 @@ Happy Learning!
 
 - **Raihan Tazdid** -
   [Raihan Tazdid](https://www.linkedin.com/in/raihan-tazdid/)
-# CRUD_user_management
+
